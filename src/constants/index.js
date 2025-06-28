@@ -106,7 +106,7 @@ export const myProjects = [
     desc: 'Developed a Python Django web platform for staff and a Flutter mobile app for students to automate descriptive answer evaluation. Applied NLP techniques like keyword extraction, semantic analysis, and sentiment analysis to enable accurate, context-aware scoring.',
     subdesc:
       'Integrated a standard answer repository and scalable scoring model to reduce manual grading and enhance exam efficiency.',
-    href: 'https://github.com/100jobin/answer-evaluation',
+    href: 'https://github.com/Jobin567/answer_evaluation/',
     texture: '/textures/project/answer.JPG',
     logo: '/assets/five.jpeg',
     logoStyle: {
